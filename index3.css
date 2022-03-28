@@ -1,0 +1,33 @@
+#div1{
+    background-color: #745aaf;
+    width: 500px;
+    height: 500px;
+}
+#uma{
+   background-color: #ffc400e8;
+   width: 250px;
+   height: 250px;
+}
+#duas{
+   color: white;
+   background-color: rgb(14, 3, 3);
+   
+}
+
+H1{
+   font-size: 25px;
+   font-family: monospace;
+   font-weight: 700;
+}
+#div2{
+   background-color: rgb(51, 94, 94);
+   width: 50%;
+   height: 50vh;
+
+}
+#uma2{
+   background-color: rgb(247, 17, 197);
+   height:50%;
+   width: 75vw;
+
+}
